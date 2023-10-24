@@ -7,5 +7,6 @@ int main() {
   cout << "checking";
 
   cout << "added for update 1";
+  cout << "added for update 2";
   return 0;
 }
